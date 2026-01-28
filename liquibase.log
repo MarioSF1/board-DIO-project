@@ -1,0 +1,39 @@
+jan. 28, 2026 12:55:35 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202601232216.sql
+jan. 28, 2026 12:55:35 AM liquibase.changelog
+INFO: Reading from board_db.DATABASECHANGELOG
+jan. 28, 2026 12:55:35 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202601232359.sql
+jan. 28, 2026 12:55:35 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202601240008.sql
+jan. 28, 2026 12:55:35 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202601240034.sql
+jan. 28, 2026 12:55:35 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202601280037.sql
+Database is up to date, no changesets to execute
+jan. 28, 2026 12:55:35 AM liquibase.changelog
+INFO: Reading from board_db.DATABASECHANGELOG
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               5
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+jan. 28, 2026 12:55:35 AM liquibase.util
+INFO: UPDATE SUMMARY
+jan. 28, 2026 12:55:35 AM liquibase.util
+INFO: Run:                          0
+jan. 28, 2026 12:55:35 AM liquibase.util
+INFO: Previously run:               5
+jan. 28, 2026 12:55:35 AM liquibase.util
+INFO: Filtered out:                 0
+jan. 28, 2026 12:55:35 AM liquibase.util
+INFO: -------------------------------
+jan. 28, 2026 12:55:35 AM liquibase.util
+INFO: Total change sets:            5
+jan. 28, 2026 12:55:35 AM liquibase.util
+INFO: Update summary generated
+jan. 28, 2026 12:55:35 AM liquibase.command
+INFO: Command execution complete
